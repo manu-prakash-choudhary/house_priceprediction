@@ -1,2 +1,2 @@
 # house_priceprediction
-This is a ML model made upon Linear Regression to predict the possible value of house buying in banglore providing its region, area, and number of bedrooms. It is really fun project💙, I gained lots of knowledge while going over this.  
+This is a ML model made upon Linear Regression to predict the possible value of house buying in banglore providing its region, area, and number of bedrooms. It is really fun project💙, I gained lots of knowledge while going over this.  However this project is done through youtube tutorials of Codebasics channel on youtube you can check out the channel it really has vast knowledge available at the edge of your device
